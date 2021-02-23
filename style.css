@@ -1,0 +1,21 @@
+.ui.borderless.text.menu {
+  background-color:#73a977;
+}
+.item {
+  font-size: 20px;
+}
+body {
+  background-color: #fff;
+}
+.ui.tiny.labeled.icon.button{
+  background-color: #005BFF;
+  color: #ffffff;
+}
+.ui.tiny.text.button{
+  background-color: #005BFF;
+  color: #ffffff;
+}
+.ui.tiny.icon.button{
+  background-color: #2FA4FF;
+  color: #ffffff;
+}
